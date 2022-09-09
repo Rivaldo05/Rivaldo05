@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript, HTML e CSS
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React js
 
 <div align="center">
   <a href="https://github.com/Rivaldo05">
